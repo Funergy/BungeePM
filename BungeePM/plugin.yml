@@ -1,0 +1,5 @@
+name: BungeePM
+main: com.Funergy.BPM.BungeePM
+version: 1.0
+author: Funergy
+description: Send private messages.
